@@ -1,1 +1,0 @@
-from milvus import Milvus, IndexType, Milvus, Status
